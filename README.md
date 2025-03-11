@@ -53,7 +53,7 @@ This project is a certification form built using React, Redux Toolkit, and Tailw
 
 ## Folder Structure
 
-Markdown
+
 
 # Certification Form
 
